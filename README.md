@@ -54,10 +54,5 @@
 <br/>
 <br/>
 
-<a href="https://github.com/sahil1710/github-readme-activity-graph"><img alt="Sahil Dholakiya's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sahil1710&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
-<br/>
-<br/>
-
 <!-- <p><em><b>I love connecting with diverse people</b> so if you wanna to say <b>hi, I'll be happy to meet you more!</b> :)</em></p> -->
 </div>
