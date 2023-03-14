@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, Sahil Dholakiya</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Sahil Dholakiya</h1>
 <h3 align="center">I'm a passionate Web Developer and Programmer from India <img src="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/1200px-Flag_of_India.svg.png" width="25px"> </h3>
 <br>
 <p align="center">  
@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently pursuing **Computer Science** from **Nirma University, Gujarat**.
 
-- 🌱 I’m learning **Data Structures and Algorithms** & **Full Stack Development**.
+- 🌱 I’m learning **Data Structures and Algorithms**,**Deep Learning** & **Full Stack Development**.
 
 - 📫 To reach me: **sahildholakiya17@gmail.com**
 <div align="center">  
